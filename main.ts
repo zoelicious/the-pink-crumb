@@ -1,3 +1,4 @@
+// Saves the completed single-sentence review into entry.txt inside the chosen output folder.
 const fs = require("fs");
 const path = require("path");
 
